@@ -1,0 +1,13 @@
+﻿  Folder.cpp
+  MyList.cpp
+  Node.cpp
+  PJC_project.cpp
+  Plik.cpp
+D:\PJATK\2sem\PJC\PJC_project\Plik.cpp(409,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PJATK\2sem\PJC\PJC_project\Plik.cpp(417,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+D:\PJATK\2sem\PJC\PJC_project\Plik.cpp(195): warning C4715: codingFiles::Plik::compareTo: значение возвращается не при всех путях выполнения
+D:\PJATK\2sem\PJC\PJC_project\MyList.h(65): warning C4715: codingFiles::MyList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator[]: значение возвращается не при всех путях выполнения
+D:\PJATK\2sem\PJC\PJC_project\MyList.h(65): warning C4715: codingFiles::MyList<codingFiles::Haslo>::operator[]: значение возвращается не при всех путях выполнения
+D:\PJATK\2sem\PJC\PJC_project\MyList.h(65): warning C4715: codingFiles::MyList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator[]: значение возвращается не при всех путях выполнения
+  PJC_project.vcxproj -> D:\PJATK\2sem\PJC\PJC_project\Debug\PJC_project.exe
